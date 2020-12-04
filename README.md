@@ -1,2 +1,2 @@
 # Personal_website
-# This is my website using html and css. It is included with my major details with the major programming languages that I learned. Also, it's included with an contact-form that you can contact me easily.
+# This is my website that describes me. It's included with my personal details and my achievements. Also, it's consisted with a contact form, who can easily contact me.
